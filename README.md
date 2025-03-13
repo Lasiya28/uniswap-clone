@@ -2,7 +2,7 @@
 
 # Table of contents
 
-- [Used of Technologies](#used-of-technologies)
+- [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Folder Structure](#folder-structure)
 - [Assets](#assets)
@@ -13,7 +13,7 @@
 
 ## ![alt text](./uniswap_clone.png)
 
-# Used of Technologies
+# Technologies Used
 
 1.  React
 2.  NextJS
